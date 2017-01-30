@@ -9,3 +9,4 @@ practice from 《CSS Secrets》
 5. [typography](http://codepen.io/yrq110/pen/egYXMm)
 6. [user experience](http://codepen.io/yrq110/pen/rjVOYE)
 7. [layout](http://codepen.io/yrq110/pen/vgxpVb)
+8. [animation](http://codepen.io/yrq110/pen/apENxp)
